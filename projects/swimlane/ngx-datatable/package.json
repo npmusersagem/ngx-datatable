@@ -1,6 +1,6 @@
 {
   "name": "sc-ngx-datatable",
-  "version": "20.1.1",
+  "version": "20.1.2",
   "description": "ngx-datatable is an Angular table grid component for presenting large and complex data.",
   "peerDependencies": {
     "@angular/common": ">=11.0.2",
@@ -11,9 +11,12 @@
   "dependencies": {
     "tslib": "^2.0.0"
   },
+  "devDependencies": {
+    "ng-packagr": "^13.1.2"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/scomnpmuser/ngx-datatable.git"
+    "url": "git+https://github.com/npmusersagem/ngx-datatable.git"
   },
   "keywords": [
     "angularjs",
@@ -23,10 +26,10 @@
     "grid",
     "table"
   ],
-  "author": "scomnpmuser",
+  "author": "npmusersagem",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/scomnpmuser/ngx-datatable/issues"
+    "url": "https://github.com/npmusersagem/ngx-datatable/issues"
   },
-  "homepage": "https://github.com/scomnpmuser/ngx-datatable#readme"
+  "homepage": "https://github.com/npmusersagem/ngx-datatable#readme"
 }
